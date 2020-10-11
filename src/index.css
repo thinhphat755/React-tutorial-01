@@ -54,3 +54,6 @@ body {
     font-weight: bold;
   }
   
+  .square.highlight {
+    background: red;
+  }
